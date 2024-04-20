@@ -1,0 +1,15 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 24px;
+    column-gap: 24px;
+    list-style-type: none;
+    justify-content: center;
+    padding: 24px 156px;
+    width: 1440px;
+}
+
+img {
+    width: 360px;
+    height: 200px;
+}
